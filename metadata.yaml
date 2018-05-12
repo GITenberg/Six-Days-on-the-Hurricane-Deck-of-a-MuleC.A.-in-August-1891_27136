@@ -1,0 +1,28 @@
+_repo: Six-Days-on-the-Hurricane-Deck-of-a-MuleC.A.-in-August-1891_27136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cole, Almira Stillwell
+    gutenberg_agent_id: '32483'
+    url: http://www.gutenberg.org/2009/agents/32483
+description: ''
+gutenberg_issued: '2008-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1501'
+- !lcsh 'Honduras -- Description and travel'
+title: 'Six Days on the Hurricane Deck of a Mule
+
+  An account of a journey made on mule back in Honduras,
+
+  C.A. in August, 1891'
+url: http://www.gutenberg.org/ebooks/27136
