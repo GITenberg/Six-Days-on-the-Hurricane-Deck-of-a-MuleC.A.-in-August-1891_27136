@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32483'
     url: http://www.gutenberg.org/2009/agents/32483
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27136#Six-Days-on-the-Hurricane-Deck-of-a-MuleC.A.-in-August-1891
 gutenberg_issued: '2008-11-02'
 gutenberg_type: Text
 identifiers:
